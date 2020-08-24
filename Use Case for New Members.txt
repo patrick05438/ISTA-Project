@@ -1,0 +1,34 @@
+-- Name: Patrick Juarez
+-- File: Use Case
+-- Date: August 23, 2020
+
+-- USE Case: Motorcycle Club Membership
+
+-- Actor: Protential Member (PM)
+
+-- Trigger
+-- PM will need to determine if they meet the qualification to join the veteran motorcycle club. 
+
+
+-- Precondition
+-- Gather documentation that shows proof they have served in the militaty and they are a combat veteran. 
+
+-- Post-condition
+
+-- Once the PM has met all qualification to become a member. The output will be put into a database and data stored for club leadership to have avalible for accountability.  
+
+-- Normal Flow
+-- 1. PM will input their standard name line, email, username, and password.
+-- 2. PM will identify what branch of service they served with and all their qualifications.
+-- 3. PM will select full membership to sign up for.
+-- 4. PM will then input the specifications of their motorcycle and rider documentation information.
+-- 5. PM will input wil identify what level they will classify as based on the level of experience. 
+
+-- Alternate Flow
+-- 1. PM will input their standard name line, email, username, and password.  
+-- 2. PM will select Support or Auxiliary since they don't meet all qualification but meet some. 
+-- 3. PM will identify if they just want to volunteer or their relation to a full member.
+-- 4. PM will identify what days or times they can be of service to the club.
+
+
+ 
